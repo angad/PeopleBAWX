@@ -1,0 +1,30 @@
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\MediaInfoTest\MediaInfoTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\MediaInfoTest\MediaInfoTest\bin\Debug\MediaInfoTest.exe
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\MediaInfoTest\MediaInfoTest\bin\Debug\MediaInfoTest.pdb
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\MediaInfoTest\MediaInfoTest\obj\Debug\MediaInfoTest.exe
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\MediaInfoTest\MediaInfoTest\obj\Debug\MediaInfoTest.pdb
+C:\Users\zds1989\Documents\Downloads\MediaInfoTest\MediaInfoTest\bin\Debug\MediaInfoTest.exe
+C:\Users\zds1989\Documents\Downloads\MediaInfoTest\MediaInfoTest\bin\Debug\MediaInfoTest.pdb
+C:\Users\zds1989\Documents\Downloads\MediaInfoTest\MediaInfoTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zds1989\Documents\Downloads\MediaInfoTest\MediaInfoTest\obj\Debug\MediaInfoTest.exe
+C:\Users\zds1989\Documents\Downloads\MediaInfoTest\MediaInfoTest\obj\Debug\MediaInfoTest.pdb
+C:\Users\zds1989\Documents\Downloads\v1.07\MediaInfoTest\MediaInfoTest\bin\Debug\MediaInfoTest.exe
+C:\Users\zds1989\Documents\Downloads\v1.07\MediaInfoTest\MediaInfoTest\bin\Debug\MediaInfoTest.pdb
+C:\Users\zds1989\Documents\Downloads\v1.07\MediaInfoTest\MediaInfoTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zds1989\Documents\Downloads\v1.07\MediaInfoTest\MediaInfoTest\obj\Debug\MediaInfoTest.exe
+C:\Users\zds1989\Documents\Downloads\v1.07\MediaInfoTest\MediaInfoTest\obj\Debug\MediaInfoTest.pdb
+C:\Users\LiYen\Desktop\v2.0\v1.07\MediaInfoTest\MediaInfoTest\bin\Debug\MediaInfoTest.exe
+C:\Users\LiYen\Desktop\v2.0\v1.07\MediaInfoTest\MediaInfoTest\bin\Debug\MediaInfoTest.pdb
+C:\Users\LiYen\Desktop\v2.0\v1.07\MediaInfoTest\MediaInfoTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiYen\Desktop\v2.0\v1.07\MediaInfoTest\MediaInfoTest\obj\Debug\MediaInfoTest.exe
+C:\Users\LiYen\Desktop\v2.0\v1.07\MediaInfoTest\MediaInfoTest\obj\Debug\MediaInfoTest.pdb
+C:\Users\LiYen\Desktop\v2.1\MediaInfoTest\MediaInfoTest\bin\Debug\MediaInfoTest.exe
+C:\Users\LiYen\Desktop\v2.1\MediaInfoTest\MediaInfoTest\bin\Debug\MediaInfoTest.pdb
+C:\Users\LiYen\Desktop\v2.1\MediaInfoTest\MediaInfoTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiYen\Desktop\v2.1\MediaInfoTest\MediaInfoTest\obj\Debug\MediaInfoTest.exe
+C:\Users\LiYen\Desktop\v2.1\MediaInfoTest\MediaInfoTest\obj\Debug\MediaInfoTest.pdb
+C:\Users\Angad\Desktop\PeopleBAWXScheduler_v2.3\PeopleBAWXScheduler_v2.2\MediaInfoTest\MediaInfoTest\bin\Debug\MediaInfoTest.exe
+C:\Users\Angad\Desktop\PeopleBAWXScheduler_v2.3\PeopleBAWXScheduler_v2.2\MediaInfoTest\MediaInfoTest\bin\Debug\MediaInfoTest.pdb
+C:\Users\Angad\Desktop\PeopleBAWXScheduler_v2.3\PeopleBAWXScheduler_v2.2\MediaInfoTest\MediaInfoTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Angad\Desktop\PeopleBAWXScheduler_v2.3\PeopleBAWXScheduler_v2.2\MediaInfoTest\MediaInfoTest\obj\Debug\MediaInfoTest.exe
+C:\Users\Angad\Desktop\PeopleBAWXScheduler_v2.3\PeopleBAWXScheduler_v2.2\MediaInfoTest\MediaInfoTest\obj\Debug\MediaInfoTest.pdb

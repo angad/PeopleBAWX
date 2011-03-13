@@ -1,0 +1,135 @@
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\bin\Debug\Windows7.DesktopIntegration.Registration.exe
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\obj\Debug\JL.baml
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\obj\Debug\Schedule.baml
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\obj\Debug\Player.baml
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\obj\Debug\MainWindow.baml
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\obj\Debug\App.baml
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\obj\Debug\JL.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\obj\Debug\Schedule.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\obj\Debug\Player.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\obj\Debug\MainWindow.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\obj\Debug\App.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\obj\Debug\Broadcaster.csproj.GenerateResource.Cache
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\bin\Debug\Broadcaster.exe
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\bin\Debug\Broadcaster.pdb
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\obj\Debug\Broadcaster_MarkupCompile.cache
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\obj\Debug\Broadcaster_MarkupCompile.lref
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\obj\Debug\Broadcaster.g.resources
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\obj\Debug\Broadcaster.Properties.Resources.resources
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\obj\Debug\Broadcaster.Resources.resources
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\obj\Debug\Broadcaster.exe
+C:\Users\LiYen\Documents\Visual Studio 2008\Projects\TaskbarConcepts\TaskbarConcepts_Starter\obj\Debug\Broadcaster.pdb
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\obj\Debug\Broadcaster.exe
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\obj\Debug\Broadcaster.pdb
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\bin\Debug\Broadcaster.exe.config
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\obj\Debug\JL.baml
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\obj\Debug\Player.baml
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\obj\Debug\JL.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\obj\Debug\Player.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\obj\Debug\MainWindow.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\obj\Debug\App.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\obj\Debug\Broadcaster_MarkupCompile.cache
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\obj\Debug\Broadcaster_MarkupCompile.lref
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\bin\Debug\Broadcaster.exe
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\bin\Debug\Broadcaster.pdb
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\bin\Debug\Windows7.DesktopIntegration.Registration.exe
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\obj\Debug\App.baml
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\obj\Debug\MainWindow.baml
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\obj\Debug\Broadcaster.g.resources
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\obj\Debug\Broadcaster.Properties.Resources.resources
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\obj\Debug\Broadcaster.Resources.resources
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\obj\Debug\ScheduleList.baml
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PplBAWXBroadcaster\obj\Debug\ScheduleList.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\bin\Debug\Broadcaster.exe.config
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\obj\Debug\Broadcaster.exe
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\obj\Debug\Broadcaster.pdb
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\bin\Debug\Broadcaster.exe
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\bin\Debug\Broadcaster.pdb
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\bin\Debug\Windows7.DesktopIntegration.Registration.exe
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\obj\Debug\JL.baml
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\obj\Debug\ScheduleList.baml
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\obj\Debug\Player.baml
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\obj\Debug\JL.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\obj\Debug\ScheduleList.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\obj\Debug\Player.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\obj\Debug\MainWindow.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\obj\Debug\App.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\obj\Debug\Broadcaster_MarkupCompile.cache
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\obj\Debug\Broadcaster_MarkupCompile.lref
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\obj\Debug\App.baml
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\obj\Debug\MainWindow.baml
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\obj\Debug\Broadcaster.g.resources
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\obj\Debug\Broadcaster.Properties.Resources.resources
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\obj\Debug\Broadcaster.Resources.resources
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\bin\Debug\Broadcaster.exe.config
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\obj\Debug\Broadcaster.exe
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\obj\Debug\Broadcaster.pdb
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\obj\Debug\ScheduleList.baml
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\obj\Debug\Player.baml
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\obj\Debug\ScheduleList.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\obj\Debug\Player.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\obj\Debug\MainWindow.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\obj\Debug\App.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\obj\Debug\Broadcaster_MarkupCompile.cache
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\obj\Debug\Broadcaster_MarkupCompile.lref
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\obj\Debug\App.baml
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\obj\Debug\MainWindow.baml
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\obj\Debug\Broadcaster.g.resources
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\bin\Debug\Broadcaster.exe
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\bin\Debug\Broadcaster.pdb
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\bin\Debug\Windows7.DesktopIntegration.Registration.exe
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\obj\Debug\Broadcaster.Properties.Resources.resources
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\obj\Debug\Broadcaster.Resources.resources
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\obj\Debug\SecondScreen.g.cs
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\obj\Debug\SecondScreen.baml
+C:\Users\LiYen\Documents\Visual Studio 2010\Projects\PeopleBAWXBroadcaster\Broadcaster\obj\Debug\Broadcaster.Import.resources
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\bin\Debug\Broadcaster.exe.config
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\obj\Debug\Broadcaster.exe
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\obj\Debug\Broadcaster.pdb
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\bin\Debug\Broadcaster.exe
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\bin\Debug\Broadcaster.pdb
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\bin\Debug\Windows7.DesktopIntegration.Registration.exe
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\obj\Debug\ScheduleList.baml
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\obj\Debug\Player.baml
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\obj\Debug\ScheduleList.g.cs
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\obj\Debug\Player.g.cs
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\obj\Debug\MainWindow.g.cs
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\obj\Debug\SecondScreen.g.cs
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\obj\Debug\App.g.cs
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\obj\Debug\Broadcaster_MarkupCompile.cache
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\obj\Debug\Broadcaster_MarkupCompile.lref
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\obj\Debug\App.baml
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\obj\Debug\MainWindow.baml
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\obj\Debug\SecondScreen.baml
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\obj\Debug\Broadcaster.g.resources
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\obj\Debug\Broadcaster.Import.resources
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\obj\Debug\Broadcaster.Properties.Resources.resources
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\obj\Debug\Broadcaster.Resources.resources
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Angad\Desktop\PeopleBAWXBroadcaster_v2.3\Broadcaster\obj\Debug\GenerateResource.write.1.tlog

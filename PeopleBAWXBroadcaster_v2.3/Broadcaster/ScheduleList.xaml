@@ -1,0 +1,133 @@
+﻿<UserControl x:Class="Broadcaster.ScheduleList"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="381" Width="446" HorizontalAlignment="Left" VerticalAlignment="Bottom">
+    <Canvas Background="LightGray">
+        <Grid></Grid>
+    <Grid Height="330" Name="dailySchedule" Width="444" Margin="0,50,0,0">        
+        <Grid.RowDefinitions>            
+            <RowDefinition Height="30" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="68.488*" />
+            <ColumnDefinition Width="375.512*" />
+        </Grid.ColumnDefinitions>
+        
+        <Grid Grid.ColumnSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="71.167*" />
+                <ColumnDefinition Width="372.833*" />
+            </Grid.ColumnDefinitions>
+                <TextBlock Padding="2" Text="Time" TextAlignment="Center" FontFamily="Georgia" FontSize="16">
+                <TextBlock.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">                        
+                        <GradientStop Color="#FECECECE" Offset="1" />
+                        <GradientStop Color="#FE6F6B6B" Offset="0" />
+                    </LinearGradientBrush>
+                </TextBlock.Background>
+            </TextBlock>
+                <TextBlock Padding="2" Text="Program Name" TextAlignment="Center" Grid.Column="1" FontFamily="Georgia" FontSize="16" >
+                <TextBlock.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FECECECE" Offset="1" />
+                        <GradientStop Color="#FE6F6B6B" Offset="0" />
+                    </LinearGradientBrush>
+                </TextBlock.Background>
+            </TextBlock>
+        </Grid>
+        <ScrollViewer Grid.Row="1" Grid.ColumnSpan="2" >
+            <Grid Name="scheduleList">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.6*" />
+                    <ColumnDefinition Width="3*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="25" Name="a0000" />
+                    <RowDefinition Height="25" Name="a0030" />
+                    <RowDefinition Height="25" Name="a0100" />
+                    <RowDefinition Height="25" Name="a0130" />
+                    <RowDefinition Height="25" Name="a0200" />
+                    <RowDefinition Height="25" Name="a0230" />
+                    <RowDefinition Height="25" Name="a0300" />
+                    <RowDefinition Height="25" Name="a0330" />
+                    <RowDefinition Height="25" Name="a0400" />
+                    <RowDefinition Height="25" Name="a0430" />
+                    <RowDefinition Height="25" Name="a0500" />
+                    <RowDefinition Height="25" Name="a0530" />
+                    <RowDefinition Height="25" Name="a0600" />
+                    <RowDefinition Height="25" Name="a0630" />
+                    <RowDefinition Height="25" Name="a0700" />
+                    <RowDefinition Height="25" Name="a0730" />
+                    <RowDefinition Height="25" Name="a0800" />
+                    <RowDefinition Height="25" Name="a0830" />
+                    <RowDefinition Height="25" Name="a0900" />
+                    <RowDefinition Height="25" Name="a0930" />
+                    <RowDefinition Height="25" Name="a1000" />
+                    <RowDefinition Height="25" Name="a1030" />
+                    <RowDefinition Height="25" Name="a1100" />
+                    <RowDefinition Height="25" Name="a1130" />
+                    <RowDefinition Height="25" Name="a1200" />
+                    <RowDefinition Height="25" Name="a1230" />
+                    <RowDefinition Height="25" Name="a1300" />
+                    <RowDefinition Height="25" Name="a1330" />
+                    <RowDefinition Height="25" Name="a1400" />
+                    <RowDefinition Height="25" Name="a1430" />
+                    <RowDefinition Height="25" Name="a1500" />
+                    <RowDefinition Height="25" Name="a1530" />
+                    <RowDefinition Height="25" Name="a1600" />
+                    <RowDefinition Height="25" Name="a1630" />
+                    <RowDefinition Height="25" Name="a1700" />
+                    <RowDefinition Height="25" Name="a1730" />
+                    <RowDefinition Height="25" Name="a1800" />
+                    <RowDefinition Height="25" Name="a1830" />
+                    <RowDefinition Height="25" Name="a1900" />
+                    <RowDefinition Height="25" Name="a1930" />
+                    <RowDefinition Height="25" Name="a2000" />
+                    <RowDefinition Height="25" Name="a2030" />
+                    <RowDefinition Height="25" Name="a2100" />
+                    <RowDefinition Height="25" Name="a2130" />
+                    <RowDefinition Height="25" Name="a2200" />
+                    <RowDefinition Height="25" Name="a2230" />
+                    <RowDefinition Height="25" Name="a2300" />
+                    <RowDefinition Height="25" Name="a2330" />
+                </Grid.RowDefinitions>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="0" Grid.RowSpan="2" IsReadOnly="True" Name="b00y0" TextAlignment="Center" VerticalContentAlignment="Center">0000</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="2" Grid.RowSpan="2" IsReadOnly="True" Name="b02y0" TextAlignment="Center" VerticalContentAlignment="Center">0100</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="4" Grid.RowSpan="2" IsReadOnly="True" Name="b04y0" TextAlignment="Center" VerticalContentAlignment="Center">0200</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="6" Grid.RowSpan="2" IsReadOnly="True" Name="b06y0" TextAlignment="Center" VerticalContentAlignment="Center">0300</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="8" Grid.RowSpan="2" IsReadOnly="True" Name="b08y0" TextAlignment="Center" VerticalContentAlignment="Center">0400</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="10" Grid.RowSpan="2" IsReadOnly="True" Name="b10y0" TextAlignment="Center" VerticalContentAlignment="Center">0500</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="12" Grid.RowSpan="2" IsReadOnly="True" Name="b12y0" TextAlignment="Center" VerticalContentAlignment="Center">0600</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="14" Grid.RowSpan="2" IsReadOnly="True" Name="b14y0" TextAlignment="Center" VerticalContentAlignment="Center">0700</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="16" Grid.RowSpan="2" IsReadOnly="True" Name="b16y0" TextAlignment="Center" VerticalContentAlignment="Center">0800</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="18" Grid.RowSpan="2" IsReadOnly="True" Name="b18y0" TextAlignment="Center" VerticalContentAlignment="Center">0900</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="20" Grid.RowSpan="2" IsReadOnly="True" Name="b20y0" TextAlignment="Center" VerticalContentAlignment="Center">1000</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="22" Grid.RowSpan="2" IsReadOnly="True" Name="b22y0" TextAlignment="Center" VerticalContentAlignment="Center">1100</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="24" Grid.RowSpan="2" IsReadOnly="True" Name="b24y0" TextAlignment="Center" VerticalContentAlignment="Center">1200</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="26" Grid.RowSpan="2" IsReadOnly="True" Name="b26y0" TextAlignment="Center" VerticalContentAlignment="Center">1300</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="28" Grid.RowSpan="2" IsReadOnly="True" Name="b28y0" TextAlignment="Center" VerticalContentAlignment="Center">1400</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="30" Grid.RowSpan="2" IsReadOnly="True" Name="b30y0" TextAlignment="Center" VerticalContentAlignment="Center">1500</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="32" Grid.RowSpan="2" IsReadOnly="True" Name="b32y0" TextAlignment="Center" VerticalContentAlignment="Center">1600</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="34" Grid.RowSpan="2" IsReadOnly="True" Name="b34y0" TextAlignment="Center" VerticalContentAlignment="Center">1700</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="36" Grid.RowSpan="2" IsReadOnly="True" Name="b36y0" TextAlignment="Center" VerticalContentAlignment="Center">1800</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="38" Grid.RowSpan="2" IsReadOnly="True" Name="b38y0" TextAlignment="Center" VerticalContentAlignment="Center">1900</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="40" Grid.RowSpan="2" IsReadOnly="True" Name="b40y0" TextAlignment="Center" VerticalContentAlignment="Center">2000</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="42" Grid.RowSpan="2" IsReadOnly="True" Name="b42y0" TextAlignment="Center" VerticalContentAlignment="Center">2100</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="44" Grid.RowSpan="2" IsReadOnly="True" Name="b44y0" TextAlignment="Center" VerticalContentAlignment="Center">2200</TextBox>
+                <TextBox Background="DarkGray" BorderThickness="0.1" Cursor="Arrow" Grid.Column="0" Grid.Row="46" Grid.RowSpan="2" IsReadOnly="True" Name="b46y0" TextAlignment="Center" VerticalContentAlignment="Center">2300</TextBox>
+            </Grid>
+        </ScrollViewer>
+    </Grid>
+        <TextBlock Height="23" FontFamily="Georgia" FontSize="18" TextAlignment="Center" Padding="3" HorizontalAlignment="Center" Name="displayDate" Text="TextBlock" VerticalAlignment="Top" Margin="241,0,444,0" MouseDown="showHideCalendar" Width="190" Canvas.Left="-111" Canvas.Top="0">
+            <TextBlock.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FE6F6B6B" Offset="0" />
+                    <GradientStop Color="#FEADADAD" Offset="1" />
+                </LinearGradientBrush>
+            </TextBlock.Background>            
+        </TextBlock>
+        <Calendar FirstDayOfWeek="Monday" Visibility="Hidden" Height="170" HorizontalAlignment="Stretch" Margin="241,28,444,0" Name="calendar" VerticalAlignment="Top" Foreground="#E4000000" BorderBrush="Black" Canvas.Left="-105" Canvas.Top="-9" SelectedDatesChanged="calendar_SelectedDatesChanged" />
+        <Button Name="closeSchedule" Width="27" Height="24" Canvas.Left="417" Canvas.Top="0" Background="Transparent" Click="closeSchedule_Click">X</Button>
+    </Canvas>
+</UserControl>

@@ -1,0 +1,15 @@
+C:\Users\Angad\Documents\Downloads\Draft8\v0.01\Draft\bin\Release\Draft.exe
+C:\Users\Angad\Documents\Downloads\Draft8\v0.01\Draft\bin\Release\Draft.pdb
+C:\Users\Angad\Documents\Downloads\Draft8\v0.01\Draft\bin\Release\WPFToolkit.dll
+C:\Users\Angad\Documents\Downloads\Draft8\v0.01\Draft\bin\Release\WPFToolkit.pdb
+C:\Users\Angad\Documents\Downloads\Draft8\v0.01\Draft\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Angad\Documents\Downloads\Draft8\v0.01\Draft\obj\x86\Release\MainWindow.baml
+C:\Users\Angad\Documents\Downloads\Draft8\v0.01\Draft\obj\x86\Release\MainWindow.g.cs
+C:\Users\Angad\Documents\Downloads\Draft8\v0.01\Draft\obj\x86\Release\App.g.cs
+C:\Users\Angad\Documents\Downloads\Draft8\v0.01\Draft\obj\x86\Release\Draft_MarkupCompile.cache
+C:\Users\Angad\Documents\Downloads\Draft8\v0.01\Draft\obj\x86\Release\Draft.g.resources
+C:\Users\Angad\Documents\Downloads\Draft8\v0.01\Draft\obj\x86\Release\Draft.Properties.Resources.resources
+C:\Users\Angad\Documents\Downloads\Draft8\v0.01\Draft\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Angad\Documents\Downloads\Draft8\v0.01\Draft\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Angad\Documents\Downloads\Draft8\v0.01\Draft\obj\x86\Release\Draft.exe
+C:\Users\Angad\Documents\Downloads\Draft8\v0.01\Draft\obj\x86\Release\Draft.pdb

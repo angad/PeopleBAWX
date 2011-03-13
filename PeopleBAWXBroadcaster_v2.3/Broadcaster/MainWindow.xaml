@@ -1,0 +1,55 @@
+﻿<Window x:Class="Broadcaster.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:concepts="clr-namespace:Broadcaster"
+        Title="PeopleBAWX" Height="600" Width="878">
+
+    <Grid Background="DimGray" Name="main_canvas">
+        <Grid Height="30" HorizontalAlignment="Stretch" Name="top_grid" VerticalAlignment="Top" Grid.ColumnSpan="2">
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0" />
+                    <GradientStop Color="#FEB4B4B4" Offset="0" />
+                    <GradientStop Color="#FE525050" Offset="1" />
+                </LinearGradientBrush>
+            </Grid.Background>
+            
+            <Button Name="emergency" Visibility="Visible" Click="emergency_Click" Height="26" Width="26" ToolTip="Emergency" 
+                    FontFamily="Georgia" FontSize="16" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <Image Source="/Assets/Emergency.jpg" Height="20" Width="20" />
+            </Button>
+            
+            <Button Name="startEmergency" Content="Start" Visibility="Hidden" Click="startEmergency_Click" Height="30" Width="75" ToolTip="Emergency" 
+                    FontFamily="Georgia" FontSize="16" HorizontalAlignment="Left" VerticalAlignment="Top" />
+            <Button Name="cancelEmergency" Content="Cancel" Visibility="Hidden" Click="cancelEmergency_Click" Height="30" Width="75" ToolTip="Emergency" 
+                    FontFamily="Georgia" FontSize="16" Margin="90,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+            <Button Name="stopEmergency" Content="Stop" Visibility="Hidden" Click="stopEmergency_Click" Height="30" Width="75" ToolTip="Emergency" 
+                    FontFamily="Georgia" FontSize="16" HorizontalAlignment="Left" VerticalAlignment="Top" />
+            
+            <Button Name="schedule" Height="26" Width="26" ToolTip="Schedule" Click="schedule_Click" HorizontalAlignment="Right" Margin="0,3,63,0" VerticalAlignment="Top">
+                <Image Source="/Assets/Schedule.png" Height="20" Width="20" />
+            </Button>            
+            <Button Name="dvd" Height="26" Width="26" ToolTip="Import" Click="dvd_Click" HorizontalAlignment="Right" Margin="0,3,33,0" VerticalAlignment="Top">
+                <Image Source="/Assets/DVD.png" Height="20" Width="20" />
+            </Button>
+            <Button Name="help" Height="26" Width="26" ToolTip="Help" Click="help_Click" HorizontalAlignment="Right" Margin="0,3,2,0" VerticalAlignment="Top">
+                <Image Source="/Assets/Help.png" Height="20" Width="20" />
+            </Button>            
+        </Grid>
+        
+        <Grid Margin="-2,0,2,0">           
+            <concepts:Player x:Name="player" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+            <concepts:ScheduleList x:Name="schedule_list" HorizontalAlignment="Center" VerticalAlignment="Center" Visibility="Hidden" Margin="0, -35, 0, 0" />
+        </Grid>
+        
+        <Grid Height="30"  Name="bottom_grid" VerticalAlignment="Bottom" HorizontalAlignment="Stretch" Grid.ColumnSpan="2">
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FEB4B4B4" Offset="0.033" />
+                    <GradientStop Color="#FE525050" Offset="0.879" />
+                </LinearGradientBrush>
+            </Grid.Background>
+        </Grid>
+    </Grid>
+
+</Window>

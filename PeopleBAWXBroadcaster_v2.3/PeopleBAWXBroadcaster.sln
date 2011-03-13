@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Broadcaster", "Broadcaster\Broadcaster.csproj", "{C146EDA8-815C-4C10-930E-6B921837F86C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PeopleBAWX Broadcaster", "PeopleBAWX Broadcaster\PeopleBAWX Broadcaster.vdproj", "{83FB9CF7-B730-4B4A-AAF9-A5A499144409}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C146EDA8-815C-4C10-930E-6B921837F86C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C146EDA8-815C-4C10-930E-6B921837F86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C146EDA8-815C-4C10-930E-6B921837F86C}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C146EDA8-815C-4C10-930E-6B921837F86C}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C146EDA8-815C-4C10-930E-6B921837F86C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C146EDA8-815C-4C10-930E-6B921837F86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C146EDA8-815C-4C10-930E-6B921837F86C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C146EDA8-815C-4C10-930E-6B921837F86C}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C146EDA8-815C-4C10-930E-6B921837F86C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{C146EDA8-815C-4C10-930E-6B921837F86C}.Release|x86.ActiveCfg = Release|Any CPU
+		{83FB9CF7-B730-4B4A-AAF9-A5A499144409}.Debug|Any CPU.ActiveCfg = Debug
+		{83FB9CF7-B730-4B4A-AAF9-A5A499144409}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{83FB9CF7-B730-4B4A-AAF9-A5A499144409}.Debug|x86.ActiveCfg = Debug
+		{83FB9CF7-B730-4B4A-AAF9-A5A499144409}.Release|Any CPU.ActiveCfg = Release
+		{83FB9CF7-B730-4B4A-AAF9-A5A499144409}.Release|Mixed Platforms.ActiveCfg = Release
+		{83FB9CF7-B730-4B4A-AAF9-A5A499144409}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
